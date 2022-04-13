@@ -12,4 +12,3 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=yusufsonmez&show_icons=true&theme=gradient) 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?yusufsonmez=Naereen&theme=blue-green)](https://github.com/yusufsonmez/)
