@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on .NET technology and JavaScript
+- 🔭 I’m currently working on .NET technology
 
 - 🌱 I’m currently learning .NET Web Api
 
-- 👯 I’m looking to collaborate on .NET projects.
+- 👯 I’m looking to collaborate on .NET projects
 
 - 💬 Ask me about .NET
 
